@@ -1,4 +1,4 @@
-Individual Research in MLILAB//
+Individual Research in MLILAB <br>
 Week 1
 
 # NMT_practice
