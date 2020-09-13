@@ -1,5 +1,5 @@
-Individual Research in MLILAB <br>
-Week 1
+<h3>Individual Research in MLILAB<h3> <br>
+<u>Week 1<u>
 
 # NMT_practice
 Boilerplate code for neural machine translation.
