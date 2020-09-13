@@ -1,4 +1,4 @@
-<h3>Individual Research in MLILAB<h3> </br>
+<h3>Individual Research in MLILAB<h3>
 <i>Week 1</i>
 
 # NMT_practice
