@@ -1,5 +1,5 @@
 # Transformer
-This is a repository for implentation of Transformer ([repo](https://github.com/dmlc/dgl/tree/master/examples/pytorch/transformer)).
+This is a repository for implentation of Transformer ([repo](https://github.com/dmlc/dgl/tree/master/examples/pytorch/transformer)).   
 Architecture resembles one explained in paper.
 Several noticeable points are:
 * Requirements: Python 3
