@@ -13,10 +13,12 @@ Several noticeable points are:
 * No dropout & schedulers are implemented
 
 # Result
+* BLEU Score
       
       BLEU = 25.76, 57.7/31.7/19.5/12.3 (BP=1.000, ratio=1.061, hyp_len=12992, ref_len=12242)
- ![trainingloss](/results/train/Loss.png)
- ![ACC-Val](/results/train/Acc-Val(%).png)
+  
+* Training Loss Curve   
+   ![trainingloss](/results/train/Loss.png)
       
 # Run
 
