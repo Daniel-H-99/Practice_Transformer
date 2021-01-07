@@ -1,0 +1,205 @@
+2021-01-06 19:20:58,966 - uses cuda
+2021-01-06 19:20:58,967 - [train] starts
+2021-01-06 19:20:58,967 - loading data...
+2021-01-06 19:20:59,017 - setting up...
+2021-01-06 19:21:03,749 - starting train
+2021-01-06 19:22:01,546 - [1] train loss: 0.045 took 57.1 seconds
+2021-01-06 19:22:02,843 - [1] validation accuracy: 13.0 %, took 1.2946243286132812 seconds
+2021-01-06 19:23:27,867 - [2] train loss: 0.036 took 85.0 seconds
+2021-01-06 19:23:29,197 - [2] validation accuracy: 15.0 %, took 1.327681541442871 seconds
+2021-01-06 19:24:56,991 - [3] train loss: 0.032 took 87.8 seconds
+2021-01-06 19:24:58,249 - [3] validation accuracy: 17.0 %, took 1.2552673816680908 seconds
+2021-01-06 19:26:26,791 - [4] train loss: 0.029 took 88.5 seconds
+2021-01-06 19:26:28,053 - [4] validation accuracy: 19.0 %, took 1.2590842247009277 seconds
+2021-01-06 19:27:58,197 - [5] train loss: 0.027 took 90.1 seconds
+2021-01-06 19:27:59,527 - [5] validation accuracy: 20.0 %, took 1.3267948627471924 seconds
+2021-01-06 19:29:27,936 - [6] train loss: 0.026 took 87.7 seconds
+2021-01-06 19:29:29,208 - [6] validation accuracy: 21.0 %, took 1.2700247764587402 seconds
+2021-01-06 19:30:58,016 - [7] train loss: 0.024 took 88.8 seconds
+2021-01-06 19:30:59,370 - [7] validation accuracy: 22.0 %, took 1.3515489101409912 seconds
+2021-01-06 19:32:29,427 - [8] train loss: 0.023 took 90.1 seconds
+2021-01-06 19:32:30,742 - [8] validation accuracy: 22.0 %, took 1.312246561050415 seconds
+2021-01-06 19:34:00,078 - [9] train loss: 0.022 took 89.3 seconds
+2021-01-06 19:34:01,419 - [9] validation accuracy: 23.0 %, took 1.3383233547210693 seconds
+2021-01-06 19:35:29,865 - [10] train loss: 0.022 took 88.4 seconds
+2021-01-06 19:35:31,110 - [10] validation accuracy: 23.0 %, took 1.2416296005249023 seconds
+2021-01-06 19:37:00,097 - [11] train loss: 0.021 took 88.3 seconds
+2021-01-06 19:37:01,392 - [11] validation accuracy: 24.0 %, took 1.2925055027008057 seconds
+2021-01-06 19:38:29,859 - [12] train loss: 0.020 took 88.5 seconds
+2021-01-06 19:38:31,165 - [12] validation accuracy: 24.0 %, took 1.3031835556030273 seconds
+2021-01-06 19:40:00,342 - [13] train loss: 0.020 took 89.2 seconds
+2021-01-06 19:40:01,705 - [13] validation accuracy: 25.0 %, took 1.3608043193817139 seconds
+2021-01-06 19:41:30,879 - [14] train loss: 0.019 took 89.2 seconds
+2021-01-06 19:41:32,233 - [14] validation accuracy: 24.0 %, took 1.3515253067016602 seconds
+2021-01-06 19:43:01,570 - [15] train loss: 0.019 took 89.3 seconds
+2021-01-06 19:43:02,911 - [15] validation accuracy: 25.0 %, took 1.3383150100708008 seconds
+2021-01-06 19:44:32,119 - [16] train loss: 0.018 took 88.7 seconds
+2021-01-06 19:44:33,491 - [16] validation accuracy: 26.0 %, took 1.3700885772705078 seconds
+2021-01-06 19:46:03,730 - [17] train loss: 0.018 took 90.2 seconds
+2021-01-06 19:46:05,061 - [17] validation accuracy: 26.0 %, took 1.328298807144165 seconds
+2021-01-06 19:47:34,759 - [18] train loss: 0.017 took 89.7 seconds
+2021-01-06 19:47:36,027 - [18] validation accuracy: 26.0 %, took 1.2653799057006836 seconds
+2021-01-06 19:49:04,286 - [19] train loss: 0.017 took 88.3 seconds
+2021-01-06 19:49:05,630 - [19] validation accuracy: 26.0 %, took 1.3409662246704102 seconds
+2021-01-06 19:50:35,465 - [20] train loss: 0.017 took 89.8 seconds
+2021-01-06 19:50:36,879 - [20] validation accuracy: 26.0 %, took 1.4116945266723633 seconds
+2021-01-06 19:52:06,311 - [21] train loss: 0.016 took 88.9 seconds
+2021-01-06 19:52:07,618 - [21] validation accuracy: 26.0 %, took 1.3050482273101807 seconds
+2021-01-06 19:53:37,369 - [22] train loss: 0.016 took 89.7 seconds
+2021-01-06 19:53:38,687 - [22] validation accuracy: 26.0 %, took 1.316235065460205 seconds
+2021-01-06 19:55:08,486 - [23] train loss: 0.016 took 89.8 seconds
+2021-01-06 19:55:09,856 - [23] validation accuracy: 27.0 %, took 1.3679430484771729 seconds
+2021-01-06 19:56:40,419 - [24] train loss: 0.015 took 90.6 seconds
+2021-01-06 19:56:41,846 - [24] validation accuracy: 27.0 %, took 1.4248039722442627 seconds
+2021-01-06 19:58:12,599 - [25] train loss: 0.015 took 90.8 seconds
+2021-01-06 19:58:14,007 - [25] validation accuracy: 27.0 %, took 1.405442237854004 seconds
+2021-01-06 19:59:44,545 - [26] train loss: 0.015 took 90.0 seconds
+2021-01-06 19:59:45,914 - [26] validation accuracy: 27.0 %, took 1.3666293621063232 seconds
+2021-01-06 20:01:16,917 - [27] train loss: 0.014 took 91.0 seconds
+2021-01-06 20:01:18,349 - [27] validation accuracy: 27.0 %, took 1.4295070171356201 seconds
+2021-01-06 20:02:44,326 - [28] train loss: 0.014 took 86.0 seconds
+2021-01-06 20:02:45,733 - [28] validation accuracy: 27.0 %, took 1.405616283416748 seconds
+2021-01-06 20:04:10,955 - [29] train loss: 0.014 took 85.2 seconds
+2021-01-06 20:04:12,380 - [29] validation accuracy: 27.0 %, took 1.4231879711151123 seconds
+2021-01-06 20:05:39,282 - [30] train loss: 0.014 took 86.9 seconds
+2021-01-06 20:05:40,735 - [30] validation accuracy: 27.0 %, took 1.4501805305480957 seconds
+2021-01-06 20:07:09,385 - [31] train loss: 0.013 took 88.2 seconds
+2021-01-06 20:07:10,854 - [31] validation accuracy: 27.0 %, took 1.4664595127105713 seconds
+2021-01-06 20:08:37,537 - [32] train loss: 0.013 took 86.7 seconds
+2021-01-06 20:08:38,877 - [32] validation accuracy: 27.0 %, took 1.3378186225891113 seconds
+2021-01-06 20:10:08,436 - [33] train loss: 0.013 took 89.6 seconds
+2021-01-06 20:10:09,823 - [33] validation accuracy: 27.0 %, took 1.3837542533874512 seconds
+2021-01-06 20:11:34,622 - [34] train loss: 0.013 took 84.8 seconds
+2021-01-06 20:11:36,075 - [34] validation accuracy: 27.0 %, took 1.4504268169403076 seconds
+2021-01-06 20:13:04,995 - [35] train loss: 0.012 took 88.9 seconds
+2021-01-06 20:13:06,364 - [35] validation accuracy: 27.0 %, took 1.3663983345031738 seconds
+2021-01-06 20:14:33,755 - [36] train loss: 0.012 took 86.9 seconds
+2021-01-06 20:14:35,136 - [36] validation accuracy: 27.0 %, took 1.3784210681915283 seconds
+2021-01-06 20:16:04,139 - [37] train loss: 0.012 took 89.0 seconds
+2021-01-06 20:16:05,663 - [37] validation accuracy: 28.0 %, took 1.5213935375213623 seconds
+2021-01-06 20:17:35,700 - [38] train loss: 0.012 took 90.0 seconds
+2021-01-06 20:17:37,210 - [38] validation accuracy: 27.0 %, took 1.5076003074645996 seconds
+2021-01-06 20:19:07,840 - [39] train loss: 0.012 took 90.6 seconds
+2021-01-06 20:19:09,343 - [39] validation accuracy: 27.0 %, took 1.5005390644073486 seconds
+2021-01-06 20:20:34,846 - [40] train loss: 0.011 took 85.5 seconds
+2021-01-06 20:20:36,339 - [40] validation accuracy: 28.0 %, took 1.4901080131530762 seconds
+2021-01-06 20:22:05,390 - [41] train loss: 0.011 took 88.4 seconds
+2021-01-06 20:22:06,918 - [41] validation accuracy: 28.0 %, took 1.5262706279754639 seconds
+2021-01-06 20:23:36,254 - [42] train loss: 0.011 took 89.3 seconds
+2021-01-06 20:23:37,634 - [42] validation accuracy: 28.0 %, took 1.3774850368499756 seconds
+2021-01-06 20:25:07,706 - [43] train loss: 0.011 took 90.1 seconds
+2021-01-06 20:25:09,177 - [43] validation accuracy: 28.0 %, took 1.4688997268676758 seconds
+2021-01-06 20:26:39,608 - [44] train loss: 0.011 took 90.4 seconds
+2021-01-06 20:26:41,058 - [44] validation accuracy: 28.0 %, took 1.447115421295166 seconds
+2021-01-06 20:28:12,253 - [45] train loss: 0.010 took 91.2 seconds
+2021-01-06 20:28:13,712 - [45] validation accuracy: 28.0 %, took 1.4571239948272705 seconds
+2021-01-06 20:29:45,550 - [46] train loss: 0.010 took 91.4 seconds
+2021-01-06 20:29:47,006 - [46] validation accuracy: 28.0 %, took 1.4537601470947266 seconds
+2021-01-06 20:31:18,211 - [47] train loss: 0.010 took 91.2 seconds
+2021-01-06 20:31:19,733 - [47] validation accuracy: 28.0 %, took 1.5200724601745605 seconds
+2021-01-06 20:32:51,648 - [48] train loss: 0.010 took 91.9 seconds
+2021-01-06 20:32:53,108 - [48] validation accuracy: 28.0 %, took 1.4574697017669678 seconds
+2021-01-06 20:34:24,179 - [49] train loss: 0.010 took 91.1 seconds
+2021-01-06 20:34:25,725 - [49] validation accuracy: 28.0 %, took 1.543590784072876 seconds
+2021-01-06 20:35:57,379 - [50] train loss: 0.009 took 91.7 seconds
+2021-01-06 20:35:58,877 - [50] validation accuracy: 28.0 %, took 1.494901180267334 seconds
+2021-01-06 20:37:30,917 - [51] train loss: 0.009 took 91.6 seconds
+2021-01-06 20:37:32,436 - [51] validation accuracy: 28.0 %, took 1.5158874988555908 seconds
+2021-01-06 20:39:03,958 - [52] train loss: 0.009 took 91.5 seconds
+2021-01-06 20:39:05,458 - [52] validation accuracy: 28.0 %, took 1.4977502822875977 seconds
+2021-01-06 20:40:36,982 - [53] train loss: 0.009 took 91.5 seconds
+2021-01-06 20:40:38,508 - [53] validation accuracy: 28.0 %, took 1.5233359336853027 seconds
+2021-01-06 20:42:10,121 - [54] train loss: 0.009 took 91.6 seconds
+2021-01-06 20:42:11,644 - [54] validation accuracy: 28.0 %, took 1.5209910869598389 seconds
+2021-01-06 20:43:42,942 - [55] train loss: 0.009 took 91.3 seconds
+2021-01-06 20:43:44,463 - [55] validation accuracy: 28.0 %, took 1.5177898406982422 seconds
+2021-01-06 20:45:16,102 - [56] train loss: 0.008 took 91.2 seconds
+2021-01-06 20:45:17,657 - [56] validation accuracy: 28.0 %, took 1.552854299545288 seconds
+2021-01-06 20:46:49,657 - [57] train loss: 0.008 took 92.0 seconds
+2021-01-06 20:46:51,183 - [57] validation accuracy: 28.0 %, took 1.5235297679901123 seconds
+2021-01-06 20:48:20,803 - [58] train loss: 0.008 took 89.6 seconds
+2021-01-06 20:48:22,284 - [58] validation accuracy: 28.0 %, took 1.4790246486663818 seconds
+2021-01-06 20:49:50,338 - [59] train loss: 0.008 took 88.1 seconds
+2021-01-06 20:49:51,888 - [59] validation accuracy: 28.0 %, took 1.547736644744873 seconds
+2021-01-06 20:51:21,654 - [60] train loss: 0.008 took 89.8 seconds
+2021-01-06 20:51:23,224 - [60] validation accuracy: 28.0 %, took 1.567847728729248 seconds
+2021-01-06 20:52:53,434 - [61] train loss: 0.008 took 89.7 seconds
+2021-01-06 20:52:55,089 - [61] validation accuracy: 28.0 %, took 1.6529335975646973 seconds
+2021-01-06 20:54:25,568 - [62] train loss: 0.007 took 90.5 seconds
+2021-01-06 20:54:27,106 - [62] validation accuracy: 28.0 %, took 1.5347700119018555 seconds
+2021-01-06 20:55:58,055 - [63] train loss: 0.007 took 90.9 seconds
+2021-01-06 20:55:59,547 - [63] validation accuracy: 28.0 %, took 1.489513874053955 seconds
+2021-01-06 20:57:30,715 - [64] train loss: 0.007 took 91.2 seconds
+2021-01-06 20:57:32,319 - [64] validation accuracy: 28.0 %, took 1.6013689041137695 seconds
+2021-01-06 20:59:03,726 - [65] train loss: 0.007 took 91.4 seconds
+2021-01-06 20:59:05,276 - [65] validation accuracy: 28.0 %, took 1.5468733310699463 seconds
+2021-01-06 21:00:37,311 - [66] train loss: 0.007 took 91.5 seconds
+2021-01-06 21:00:38,987 - [66] validation accuracy: 28.0 %, took 1.674499750137329 seconds
+2021-01-06 21:02:09,871 - [67] train loss: 0.007 took 90.9 seconds
+2021-01-06 21:02:11,439 - [67] validation accuracy: 28.0 %, took 1.5660104751586914 seconds
+2021-01-06 21:03:42,667 - [68] train loss: 0.006 took 91.2 seconds
+2021-01-06 21:03:44,255 - [68] validation accuracy: 27.0 %, took 1.5854313373565674 seconds
+2021-01-06 21:05:10,335 - [69] train loss: 0.006 took 86.1 seconds
+2021-01-06 21:05:11,849 - [69] validation accuracy: 28.0 %, took 1.5118217468261719 seconds
+2021-01-06 21:06:40,208 - [70] train loss: 0.006 took 88.4 seconds
+2021-01-06 21:06:41,844 - [70] validation accuracy: 28.0 %, took 1.634077787399292 seconds
+2021-01-06 21:08:11,562 - [71] train loss: 0.006 took 89.2 seconds
+2021-01-06 21:08:13,201 - [71] validation accuracy: 28.0 %, took 1.6360785961151123 seconds
+2021-01-06 21:09:43,114 - [72] train loss: 0.006 took 89.9 seconds
+2021-01-06 21:09:44,712 - [72] validation accuracy: 27.0 %, took 1.5958178043365479 seconds
+2021-01-06 21:11:15,686 - [73] train loss: 0.006 took 91.0 seconds
+2021-01-06 21:11:17,396 - [73] validation accuracy: 27.0 %, took 1.7077531814575195 seconds
+2021-01-06 21:12:48,665 - [74] train loss: 0.006 took 91.3 seconds
+2021-01-06 21:12:50,326 - [74] validation accuracy: 27.0 %, took 1.6584141254425049 seconds
+2021-01-06 21:14:21,462 - [75] train loss: 0.006 took 91.1 seconds
+2021-01-06 21:14:23,077 - [75] validation accuracy: 27.0 %, took 1.6127991676330566 seconds
+2021-01-06 21:15:54,629 - [76] train loss: 0.005 took 90.9 seconds
+2021-01-06 21:15:56,185 - [76] validation accuracy: 28.0 %, took 1.553426742553711 seconds
+2021-01-06 21:17:27,605 - [77] train loss: 0.005 took 91.4 seconds
+2021-01-06 21:17:29,235 - [77] validation accuracy: 27.0 %, took 1.62754487991333 seconds
+2021-01-06 21:19:00,601 - [78] train loss: 0.005 took 91.4 seconds
+2021-01-06 21:19:02,158 - [78] validation accuracy: 27.0 %, took 1.554980993270874 seconds
+2021-01-06 21:20:33,555 - [79] train loss: 0.005 took 91.4 seconds
+2021-01-06 21:20:35,221 - [79] validation accuracy: 27.0 %, took 1.6641287803649902 seconds
+2021-01-06 21:22:06,766 - [80] train loss: 0.005 took 91.5 seconds
+2021-01-06 21:22:08,425 - [80] validation accuracy: 28.0 %, took 1.6563441753387451 seconds
+2021-01-06 21:23:40,478 - [81] train loss: 0.005 took 91.5 seconds
+2021-01-06 21:23:42,039 - [81] validation accuracy: 28.0 %, took 1.5585098266601562 seconds
+2021-01-06 21:25:13,576 - [82] train loss: 0.005 took 91.5 seconds
+2021-01-06 21:25:15,285 - [82] validation accuracy: 27.0 %, took 1.7057297229766846 seconds
+2021-01-06 21:26:47,782 - [83] train loss: 0.005 took 92.5 seconds
+2021-01-06 21:26:49,475 - [83] validation accuracy: 27.0 %, took 1.689042329788208 seconds
+2021-01-06 21:28:20,535 - [84] train loss: 0.004 took 91.1 seconds
+2021-01-06 21:28:22,171 - [84] validation accuracy: 27.0 %, took 1.6343188285827637 seconds
+2021-01-06 21:29:52,732 - [85] train loss: 0.004 took 90.6 seconds
+2021-01-06 21:29:54,460 - [85] validation accuracy: 28.0 %, took 1.7256543636322021 seconds
+2021-01-06 21:31:25,274 - [86] train loss: 0.004 took 90.4 seconds
+2021-01-06 21:31:26,879 - [86] validation accuracy: 27.0 %, took 1.6026039123535156 seconds
+2021-01-06 21:32:58,238 - [87] train loss: 0.004 took 91.4 seconds
+2021-01-06 21:32:59,938 - [87] validation accuracy: 27.0 %, took 1.6975045204162598 seconds
+2021-01-06 21:34:31,044 - [88] train loss: 0.004 took 91.1 seconds
+2021-01-06 21:34:32,800 - [88] validation accuracy: 27.0 %, took 1.753042459487915 seconds
+2021-01-06 21:36:03,613 - [89] train loss: 0.004 took 90.8 seconds
+2021-01-06 21:36:05,290 - [89] validation accuracy: 27.0 %, took 1.6745762825012207 seconds
+2021-01-06 21:37:36,372 - [90] train loss: 0.004 took 91.1 seconds
+2021-01-06 21:37:38,086 - [90] validation accuracy: 27.0 %, took 1.7118556499481201 seconds
+2021-01-06 21:39:05,961 - [91] train loss: 0.004 took 87.4 seconds
+2021-01-06 21:39:07,661 - [91] validation accuracy: 27.0 %, took 1.6981143951416016 seconds
+2021-01-06 21:40:35,863 - [92] train loss: 0.004 took 88.2 seconds
+2021-01-06 21:40:37,492 - [92] validation accuracy: 27.0 %, took 1.6263773441314697 seconds
+2021-01-06 21:42:07,349 - [93] train loss: 0.004 took 89.9 seconds
+2021-01-06 21:42:09,161 - [93] validation accuracy: 28.0 %, took 1.810103178024292 seconds
+2021-01-06 21:43:39,335 - [94] train loss: 0.004 took 90.2 seconds
+2021-01-06 21:43:40,979 - [94] validation accuracy: 27.0 %, took 1.6419141292572021 seconds
+2021-01-06 21:45:10,244 - [95] train loss: 0.003 took 89.3 seconds
+2021-01-06 21:45:11,909 - [95] validation accuracy: 27.0 %, took 1.6621840000152588 seconds
+2021-01-06 21:46:40,577 - [96] train loss: 0.003 took 88.2 seconds
+2021-01-06 21:46:42,338 - [96] validation accuracy: 27.0 %, took 1.758803367614746 seconds
+2021-01-06 21:48:12,214 - [97] train loss: 0.003 took 89.9 seconds
+2021-01-06 21:48:13,869 - [97] validation accuracy: 28.0 %, took 1.651902198791504 seconds
+2021-01-06 21:49:44,275 - [98] train loss: 0.003 took 90.4 seconds
+2021-01-06 21:49:46,026 - [98] validation accuracy: 27.0 %, took 1.7481019496917725 seconds
+2021-01-06 21:51:16,654 - [99] train loss: 0.003 took 90.6 seconds
+2021-01-06 21:51:18,468 - [99] validation accuracy: 27.0 %, took 1.8116800785064697 seconds
+2021-01-06 21:52:49,841 - [100] train loss: 0.003 took 91.4 seconds
+2021-01-06 21:52:51,542 - [100] validation accuracy: 27.0 %, took 1.6985020637512207 seconds

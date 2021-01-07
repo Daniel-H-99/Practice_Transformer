@@ -9,17 +9,17 @@ def load_data(path):
     src = {}
     tgt = {}
 
-    with open(os.path.join(path, 'train.en.atok'), 'r') as f:
+    with open(os.path.join(path, 'train.en.atok'), 'r', encoding='utf-8') as f:
         src['train'] = [line.strip() for line in f.readlines()]
-    with open(os.path.join(path, 'train.de.atok'), 'r') as f:
+    with open(os.path.join(path, 'train.de.atok'), 'r', encoding='utf-8') as f:
         tgt['train'] = [line.strip() for line in f.readlines()]
-    with open(os.path.join(path, 'valid.en.atok'), 'r') as f:
+    with open(os.path.join(path, 'valid.en.atok'), 'r', encoding='utf-8') as f:
         src['valid'] = [line.strip() for line in f.readlines()]
-    with open(os.path.join(path, 'valid.de.atok'), 'r') as f:
+    with open(os.path.join(path, 'valid.de.atok'), 'r', encoding='utf-8') as f:
         tgt['valid'] = [line.strip() for line in f.readlines()]
-    with open(os.path.join(path, 'test.en.atok'), 'r') as f:
+    with open(os.path.join(path, 'test.en.atok'), 'r', encoding='utf-8') as f:
         src['test'] = [line.strip() for line in f.readlines()]
-    with open(os.path.join(path, 'test.de.atok'), 'r') as f:
+    with open(os.path.join(path, 'test.de.atok'), 'r', encoding='utf-8') as f:
         tgt['test'] = [line.strip() for line in f.readlines()]
 
     if not os.path.exists(src_vocab_path):
@@ -38,7 +38,7 @@ def _make_vocab(path, corpus, thres=2):
             else:
                 word_dict[token] += 1
 
-    with open(path, 'w') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         for word, count in word_dict.items():
             if count > thres:
                 f.write('{}\n'.format(word))

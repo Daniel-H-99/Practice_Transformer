@@ -14,7 +14,7 @@ class Vocab:
         self.vocab_list.append(self.pad_token)
         self.vocab_list.append(self.unk_token)
 
-        with open(path, 'r') as f:
+        with open(path, 'r', encoding='utf-8') as f:
             for token in f.readlines():
                 token = token.strip()
                 self.vocab_list.append(token)
