@@ -1,9 +1,15 @@
-<h3>Individual Research in MLILAB<h3>
-<i>Week 1</i>
+# Transformer
+Transformer (https://github.com/dmlc/dgl/tree/master/examples/pytorch/transformer)
 
-# NMT_practice
-Boilerplate code for neural machine translation.
+# Result
+      
+      BLEU = 25.76, 57.7/31.7/19.5/12.3 (BP=1.000, ratio=1.061, hyp_len=12992, ref_len=12242)
+      
+# Run
 
+      sh run.sh
+
+# Details
 * Requirements: Python 3
 * Dataset: Multi30k
 * Features: Model, Framework agnostic
